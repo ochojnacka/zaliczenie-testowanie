@@ -1,8 +1,8 @@
-# Dokumentacja Testów
+# Dokumentacja
 
 ## Przegląd
 
-Pakiet testów dla aplikacji e-commerce React: **30 testów** (20 unit + 10 E2E).
+Pakiet testów dla aplikacji e-commerce React: 30 testów (20 unit + 10 E2E).
 
 **Projekt oryginalny:** [100-React-Projects - Advance React E-commerce with Real-Backend](https://github.com/vishal-dcode/100-React-Projects/tree/d2869eb418e03f6fc9007e93f832fa5fedcefa63/Advance%20React%20E-commerce%20with%20Real-Backend)
 
@@ -10,15 +10,14 @@ Pakiet testów dla aplikacji e-commerce React: **30 testów** (20 unit + 10 E2E)
 
 W porównaniu do oryginalnego projektu dodano:
 
-- ✅ **30 testów** (20 unit + 10 E2E) - oryginalny projekt nie zawierał testów
-- ✅ **Vitest** - framework do testów jednostkowych
-- ✅ **Playwright** - framework do testów E2E
-- ✅ **Pliki konfiguracyjne testów** (vitest.config.js, playwright.config.js, setup.js)
-- ✅ **Folder src/test/** - 4 pliki testowe
-- ✅ **Folder e2e/** - testy end-to-end
-- ✅ **100% pokrycie kodu** dla Redux slices
+- ✅ 30 testów (20 unit + 10 E2E)
+- ✅ Vitest - do testów jednostkowych
+- ✅ Playwright - framework do testów E2E
+- ✅ Pliki konfiguracyjne (vitest.config.js, playwright.config.js, setup.js)
+- ✅ Folder src/test/ - 4 pliki testowe
+- ✅ Folder e2e/ - testy end-to-end
 
-Oryginalny kod aplikacji pozostał **niezmieniony**.
+Oryginalny kod aplikacji pozostał niezmieniony.
 
 ## Uruchomienie Projektu
 
@@ -113,8 +112,8 @@ npm run test:e2e:ui
 
 ## Wyniki
 
-✅ **30/30 testów przechodzi**
-✅ **100% pokrycie kodu**
+✅ 30/30 testów przechodzi
+✅ 100% pokrycie kodu
 
 ## Technologie
 
